@@ -20,13 +20,11 @@
 
 ## WORK EXPERIENCE
 
-12/2016 - present
-
-Software Engineer, Naver Corp., Seongnam-si Gyeonggi-do Republic of Korea
+Software Engineer, Naver Corp., Seongnam-si Gyeonggi-do Republic of Korea (12/2016 - present)
 
 Responsibilities:
 
-[](https://www.notion.so/18055ea8ae9b4f52aa3751fb6259176d#e915153d92ce4ba78c2f1555ce1175b3)
+<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/70/aa/7c/70aa7ce4-7aba-004b-bd0a-8e59b1bf5d2a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/690x0w.jpg" width="100">
 
 [BAND](https://apps.apple.com/kr/app/band-app-for-all-groups/id542613198?l=en)
 
@@ -45,9 +43,7 @@ Mainly Task in Charge
 
 ## Education
 
-2011 - 2017
-
-Bachelor Degree of Computer Science, Soongsil University of Seoul
+Bachelor Degree of Computer Science, Soongsil University of Seoul (2011 - 2017)
 
 ## SKILLS
 
@@ -58,11 +54,9 @@ Bachelor Degree of Computer Science, Soongsil University of Seoul
 
 ## PERSONAL EXPERIENCE
 
-05/2019 - present
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/50/87/b2508714-c38e-da3d-0e7b-05a2deed6b27/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.jpg" width="100">
 
-[](https://www.notion.so/18055ea8ae9b4f52aa3751fb6259176d#2509c68179a4403984cd09317b999ff8)
-
-[iPet](https://apps.apple.com/kr/app/ipet-uk/id1463256910?l=en)
+[iPet](https://apps.apple.com/kr/app/ipet-uk/id1463256910?l=en) (05/2019 - present)
 
 Apps for dog lovers. The easiest way to translate dog's sound using Audio Machine Learning.
 
