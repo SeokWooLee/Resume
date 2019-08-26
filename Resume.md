@@ -24,9 +24,11 @@ Software Engineer, Naver Corp., Seongnam-si Gyeonggi-do Republic of Korea (12/20
 
 Responsibilities:
 
+[BAND](https://apps.apple.com/kr/app/band-app-for-all-groups/id542613198?l=en)
+
 | App | Description | Language |
 | :---: | :---: | :---: |
-| <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/70/aa/7c/70aa7ce4-7aba-004b-bd0a-8e59b1bf5d2a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/690x0w.jpg" width="150"><br>[BAND](https://apps.apple.com/kr/app/band-app-for-all-groups/id542613198?l=en) | Private focused group SNS App. Service for group communication, with features like the Community Board, Shared Calendar, Polls, To-Do Lists, Private Chat & much more. | Objective-C<br>Swift |
+| <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/70/aa/7c/70aa7ce4-7aba-004b-bd0a-8e59b1bf5d2a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/690x0w.jpg" width="150"> | Private focused group SNS App. Service for group communication, with features like the Community Board, Shared Calendar, Polls, To-Do Lists, Private Chat & much more. | Objective-C<br>Swift |
 
 Mainly Task in Charge
 
@@ -50,8 +52,8 @@ Bachelor Degree of Computer Science, Soongsil University of Seoul (2011 - 2017)
 
 ## PERSONAL EXPERIENCE
 
-(05/2019 - present)
+[iPet](https://apps.apple.com/kr/app/ipet-uk/id1463256910?l=en)(05/2019 - present)
 
 | App | Description | Language |
 | :---: | :---: | :---: |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/50/87/b2508714-c38e-da3d-0e7b-05a2deed6b27/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.jpg" width="150"><br>[iPet](https://apps.apple.com/kr/app/ipet-uk/id1463256910?l=en) | Apps for dog lovers. The easiest way to translate dog's sound using Audio Machine Learning. | Swift |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/50/87/b2508714-c38e-da3d-0e7b-05a2deed6b27/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.jpg" width="150"> | Apps for dog lovers. The easiest way to translate dog's sound using Audio Machine Learning. | Swift |
