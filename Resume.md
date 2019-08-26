@@ -28,7 +28,7 @@ Responsibilities:
 
 | App | Description | Language |
 | :---: | :---: | :---: |
-| <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/70/aa/7c/70aa7ce4-7aba-004b-bd0a-8e59b1bf5d2a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.jpg" > | Private focused group SNS App. Service for group communication, with features like the Community Board, Shared Calendar, Polls, To-Do Lists, Private Chat & much more. | Objective-C<br>Swift |
+| <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/70/aa/7c/70aa7ce4-7aba-004b-bd0a-8e59b1bf5d2a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg" width="150"> | Private focused group SNS App. Service for group communication, with features like the Community Board, Shared Calendar, Polls, To-Do Lists, Private Chat & much more. | Objective-C<br>Swift |
 
 Mainly Task in Charge
 
