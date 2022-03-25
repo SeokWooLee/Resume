@@ -57,4 +57,5 @@ Bachelor Degree of Computer Science, Soongsil University of Seoul (2011 - 2017)
 | App | Description | Language |
 | :---: | :---: | :---: |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/50/87/b2508714-c38e-da3d-0e7b-05a2deed6b27/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg" width="150"> | Apps for dog lovers. The easiest way to translate dog's sound using Audio Machine Learning. | Swift |
-| <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/13/3f/b1/133fb166-3b12-1b57-e33d-3dce72c5ef0b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png" width="150"> | Apps for dog lovers. The easiest way to translate dog's sound using Audio Machine Learning. | Swift |
+| <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/13/3f/b1/133fb166-3b12-1b57-e33d-3dce72c5ef0b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png" width="150"> | GIF, Video, Live Photo Converting App | Swift |
+| <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/ca/d7/a0/cad7a091-ba78-0b00-6606-e30f7cf3abd6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.png" width="150"> | Time Management App | Swift |
