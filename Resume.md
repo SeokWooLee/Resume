@@ -1,9 +1,5 @@
 # SeokWoo Lee
 
-### ADDRESS:
-
-25, Bulgokbuk-ro Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
-
 ### PHONE:
 
 +82-10-6419-6373
@@ -14,7 +10,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-- I have nearly 3 years of software development experience, mostly on the iOS platform.
+- I have nearly 5 years of software development experience, mostly on the iOS platform.
 - I make it my goal to create software with the user in mind, creating applications with a useable and intuitive user interface experience. I also understand the importance of creating easily maintainable source code.
 - I have always invested time and effort in learning new things for building software and I like to apply these things to projects. And this approach has made me respond quickly to changes.
 
@@ -37,7 +33,8 @@ Mainly Task in Charge
 3. Member: Synchronization, Mention, Modularization
 4. Comment: Modularization, Reply
 5. Live: Broadcast
-6. ETC
+6. Design System
+7. ETC
 
 ## Education
 
@@ -47,8 +44,11 @@ Bachelor Degree of Computer Science, Soongsil University of Seoul (2011 - 2017)
 
 - Programming Languages: Swift, Objective-C, C, Java, Python
 - Mobile Development: iOS, Android
+- Frameworks: Combine, SwiftUI, Realm, CoreML
+- Dependency Manager: Swift Package Manager, Cocoapods, Carthage
 - Databases: MySQL, SQLite
 - CI: Jenkins
+- Version Control: Git, Git Flow
 
 ## PERSONAL EXPERIENCE
 
@@ -57,3 +57,4 @@ Bachelor Degree of Computer Science, Soongsil University of Seoul (2011 - 2017)
 | App | Description | Language |
 | :---: | :---: | :---: |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/50/87/b2508714-c38e-da3d-0e7b-05a2deed6b27/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg" width="150"> | Apps for dog lovers. The easiest way to translate dog's sound using Audio Machine Learning. | Swift |
+| <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/13/3f/b1/133fb166-3b12-1b57-e33d-3dce72c5ef0b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png" width="150"> | Apps for dog lovers. The easiest way to translate dog's sound using Audio Machine Learning. | Swift |
