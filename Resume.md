@@ -32,9 +32,11 @@ Mainly Task in Charge
 2. Settings: Modularization
 3. Member: Synchronization, Mention, Modularization
 4. Comment: Modularization, Reply
-5. Live: Broadcast
-6. Design System
-7. ETC
+5. Band: Mission, Recruiting
+6. Live: Broadcast
+7. Design System(UI Components, Semantic Color)
+8. Modularization(Data-driven TableViewController, ...)
+9. ETC
 
 ## Education
 
